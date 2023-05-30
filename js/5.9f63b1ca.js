@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunktemplate"]=globalThis["webpackChunktemplate"]||[]).push([[5],{3005:(e,t,a)=>{a.r(t),a.d(t,{default:()=>u});var n=a(9835);function l(e,t,a,l,r,i){return(0,n.wg)(),(0,n.iD)("div")}const r={name:"login"};var i=a(1639);const s=(0,i.Z)(r,[["render",l]]),u=s}}]);
